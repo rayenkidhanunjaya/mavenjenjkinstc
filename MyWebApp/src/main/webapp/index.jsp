@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> WELCOM April and May DevOps Batch!!!!!!!!</h2>
+	<h2> WELCOME TO DEVOPS WARRIER BATCH SUJATHA MAM LET US CHILL</h2>
   
 </body>
 </html>
